@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.asv
+.DS_Store
+Thumbs.db
+.vscode/
+
+# generated outputs
+*.xlsx
+*.aln
+*.csv
+Del_*.fasta
+WT-error.txt
+forward_seq.fasta
